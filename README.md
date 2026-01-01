@@ -1,5 +1,5 @@
 
-
+[See powerbi Analysis](https://github.com/Jay0494/Data-Driven-Sales-Performance-Analysis-for-Multi-Store-Retail.git)
 ## SQL Workflow 
 
 SQL was used as the primary analytical layer to ensure **data integrity, relational accuracy, and reproducible analysis** before visualization in Power BI.
